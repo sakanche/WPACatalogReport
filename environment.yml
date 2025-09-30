@@ -3,7 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.10
-  - voila=0.5.5
+  - voila=0.4.4
   - ipywidgets=7.7.2
   - notebook
   - jupyterlab_widgets
