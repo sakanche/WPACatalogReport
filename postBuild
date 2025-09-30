@@ -1,0 +1,1 @@
+pip install --upgrade voila==0.5.5 ipywidgets==7.7.2 notebook jupyterlab_widgets pandas openpyxl xlsxwriter
