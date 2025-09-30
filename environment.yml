@@ -8,5 +8,7 @@ dependencies:
   - notebook
   - jupyterlab_widgets
   - pandas
-  - openpyxl
-  - xlsxwriter
+  - pip
+  - pip:
+      - openpyxl
+      - xlsxwriter
