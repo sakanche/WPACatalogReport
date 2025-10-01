@@ -8,6 +8,7 @@ dependencies:
   - notebook
   - jupyterlab_widgets
   - pandas
+  - xlrd>=2.0.1
   - pip
   - pip:
       - openpyxl
